@@ -1,5 +1,6 @@
 Hi, I'm Losritha!
 🎓 Sophomore at George Mason University, studying Information Technology with a Concentration in Cyber and AI
+Aspiring Penetration Tester | Ethical Hacking & Cybersecurity Enthusiast
 
 
 🛠 Tech Stack:
