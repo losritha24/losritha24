@@ -9,7 +9,7 @@ Tools: Jupyter Notebooks, Google Colab, Git, GitHub
  
 
 🚀 Projects:
-A few other noteworthy projects I’ve worked on:
+A few noteworthy projects I’ve worked on:
 
 PropertyInsight AI - An analyst-facing decision-support application that ingests fragmented property and market data, extracts valuation products (PDF/XML), analyzes property imagery, reconciles evidence across sources, detects anomalies, and answers drill-down questions through an evidence-grounded LangChain agent — with full provenance, confidence, and audit trail. 
       Link: https://github.com/losritha24/Fannie-Mae-Project-Challenge-X/blob/main/README.md
