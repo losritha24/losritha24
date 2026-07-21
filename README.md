@@ -1,6 +1,6 @@
 Hi, I'm Losritha!
 🎓 Sophomore at George Mason University, studying Information Technology with a Concentration in Cyber and AI
-Aspiring Penetration Tester | Ethical Hacking & Cybersecurity Enthusiast
+✨ Aspiring Penetration Tester | Ethical Hacking & Cybersecurity Enthusiast
 
 
 🛠 Tech Stack:
@@ -20,9 +20,7 @@ Reflect helps users explore their emotions through AI-powered art generation, in
       Link: https://github.com/Kar6465/Reflect_XR_ChallengeX/blob/main/README.md
 
 📫 How to Reach Me:
-LinkedIn: linkedin.com/in/yourprofile (*link your profile URL)
+LinkedIn: www.linkedin.com/in/losritha-nallamala-a01513346
  
- 
-
 ✨ Fun Fact:
 I'm on the GMU badminton team and I'm an officer! I love listening to music and watching a good drama. 
